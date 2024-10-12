@@ -18,7 +18,7 @@ href="https://www.instagram.com/gazis_huvo?igsh=MXdzcWMzMDcxNzZ5aw==" target="_b
 <a href="https://youtube.com/@gazi_shuvo?si=i0qjNKhzpIzDPg-F"><img src="https://github.com/SHUVO-184/IMAIGE/blob/main/youtube.png"
 alt="alt text" width="81" height="81"></a>
 
-__Loading__🩵🩷💖💙💜🖤🩶
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=00CED1&vCenter=true&width=550&height=50&lines=%E2%80%8B%20%20__Loading__🩵🩷💖💙💜🖤🩶" alt="Typing SVG">
 
 <table style="border: 2px solid red; width: 350px; height: 400px; background-color: 00FF00;">
     <tr>
