@@ -1,13 +1,12 @@
 <img align="right" alt="logo" width="870" src="https://github.com/SHUVO-184/SHUVO-184/blob/main/videotogif_2024.08.28_08.44.05.gif">
 <h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-    WELCOME TO AHAMED SHUVO
-PROFILE
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="20">
+  WELCOME TO AHAMED SHUVO PROFILE
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="20">
 </h3>
 <a
 <center>
-<img src="https://github.com/SHUVO-184/SHUVO-184/blob/main/e8d5a3b3a383211eb74d02a26115defa.gif" width="200" height="200" align="right">
+<img src="https://github.com/SHUVO-184/SHUVO-184/blob/main/e8d5a3b3a383211eb74d02a26115defa.gif" width="180" height="300" align="right">
 <center>
 <a href="https://github.com/SHUVO-184" target="_blank">
   <img src="https://github.com/SHUVO-184/IMAIGE/blob/main/9919.png" alt="GitHub Logo" width="81" height="81">
